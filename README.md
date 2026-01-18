@@ -14,7 +14,7 @@ Software Engineering student from Vietnam 🇻🇳
   <a href="https://t.me/Tylerx404">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="https://x.com/Tylerx404">
+  <a href="https://x.com/TylerDinh">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
   <a href="https://linkedin.com/in/Đinh-Vạn-Tài">
